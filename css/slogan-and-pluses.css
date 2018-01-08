@@ -46,7 +46,6 @@
 
 }
 
-
 .feature-mini-caption{
     color:white;
     font-family: 'Gotham', sans-serif;
@@ -55,13 +54,12 @@
     margin-top: 20px;
     display: inline-block;
 }
+
 .feature-mini-description{
     color: white;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     width: 270px;
-
-
 }
 
 .feature>.feature-blue-circle > img {
