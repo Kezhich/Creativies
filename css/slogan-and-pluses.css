@@ -1,0 +1,73 @@
+.slogan-and-pluses{
+    background-color: rgb( 17, 116, 158 );
+    width: 1600px;
+    margin: 0 auto;
+}
+/* слоган и W на его фоне сзади*/
+.ourSlogan{
+    font-family: 'Gotham', sans-serif;
+    font-weight: medium;
+    font-size: 37.55px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    height: 37.55px;
+}
+.W{
+    font-family: 'Roboto';
+    font-weight: bold;
+    width: 100%;
+    max-width: 1600px;
+    text-align: center;
+    color: white;
+    font-size: 247px;
+    opacity: 0.18;
+    position: relative;
+    top: -153px;
+    padding: 0;
+    margin: 0;
+}
+/* 4 одинаковых блока с выравниванием по центру*/
+.feature{
+    text-align: center;
+    display: inline-block;
+    padding-right: 50px;
+    margin: 140px auto 0;
+
+}
+
+.feature-blue-circle {
+    width: 134px;
+    height: 134px;
+    background-color: rgba(255, 255, 255, .3);
+    color:white;
+    border-radius: 67px;
+    margin: 0 auto;
+
+}
+
+
+.feature-mini-caption{
+    color:white;
+    font-family: 'Gotham', sans-serif;
+    font-weight: medium;
+    font-size: 18px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.feature-mini-description{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    width: 270px;
+
+
+}
+
+.feature>.feature-blue-circle > img {
+
+    text-align: center;
+    padding-top: 50px;
+
+}
+

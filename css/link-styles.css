@@ -1,0 +1,29 @@
+.headerUl >li > a{
+    color: white;
+    text-decoration: none;
+}
+.headerUl >li > a:visited{
+    color: white;
+    text-decoration: none;
+}
+.headerUl >li > a:hover{
+    color: white;
+    text-decoration: none;
+}
+.headerUl >li > a:active{
+    color: white;
+    text-decoration: none;
+}
+
+.scrollup{
+    width: 40px;
+    height: 40px;
+    opacity:0.6;
+    color: #999999;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    display:none;
+    text-indent:-9999px;
+    background: url('icon-top.png') no-repeat;
+}

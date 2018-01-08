@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Gotham';
+    src: url(GothaProReg.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url(GothaProBol.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham';
+    src: url(GothaProIta.otf);
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Gotham';
+    src: url(GothaProBolIta.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Gotham';
+    src: url(GothaProLig.otf);
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham';
+    src: url(GothaProMed.otf);
+    font-weight: medium;
+    font-style: normal;
+}
+

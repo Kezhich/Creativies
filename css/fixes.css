@@ -1,0 +1,11 @@
+.clearfix {
+    display: table;
+    content: "";
+    clear: both;
+}
+.container-full-width{
+    text-align: center;
+    width: 100%;
+    max-width: 1600px;
+
+}
